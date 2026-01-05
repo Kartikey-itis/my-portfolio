@@ -2,6 +2,7 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://kartikey-itis.github.io/portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
